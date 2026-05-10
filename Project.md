@@ -9,10 +9,9 @@
 | Field | Details |
 |---|---|
 | **Client** | Confidential — Enterprise Language Technology Solutions Provider |
-| **Delivered By** | [Your Software House Name] |
+| **Delivered By** | CareerCore |
 | **Domain** | Natural Language Processing (NLP) / Neural Machine Translation (NMT) |
 | **Technology Stack** | Python, TensorFlow/Keras, Bidirectional LSTM, Seq2Seq, Attention Mechanism |
-| **Dataset** | Parallel Corpus for English & Urdu Language (Kaggle) |
 | **Status** | Successfully Delivered ✅ |
 
 ---
@@ -93,13 +92,6 @@ Script             : Latin → Nastaliq (Unicode)
 
 ---
 
-## Dataset
-
-- **Source:** Parallel Corpus for English & Urdu Language (Kaggle Public Dataset)
-- **Content:** Aligned bilingual sentence pairs across multiple domains
-- **Preprocessing:** Tokenization, sequence padding, vocabulary filtering, and train/validation splitting were performed as part of the data pipeline
-
----
 
 ## Results & Outcomes
 
@@ -132,8 +124,8 @@ Script             : Latin → Nastaliq (Unicode)
 
 ## Technologies & Libraries
 
-`Python 3.x` · `TensorFlow 2.x` · `Keras` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter Notebook` · `Kaggle Notebooks`
+`Python 3.x` · `TensorFlow 2.x` · `Keras` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Google Colab` 
 
 ---
 
-*This project was designed, developed, and delivered by [Your Software House Name] as part of its AI & Natural Language Processing services portfolio. All model training, architecture decisions, and data pipeline engineering were executed in-house.*
+*This project was designed, developed, and delivered by CareerCore as part of its AI & Natural Language Processing services portfolio. All model training, architecture decisions, and data pipeline engineering were executed in-house.*
